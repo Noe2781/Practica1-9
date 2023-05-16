@@ -1,0 +1,55 @@
+body{
+
+ 
+  background-color: black;
+  font-style: monospace;
+  color: white;
+
+
+}
+
+.titulo1{
+
+    color: blueviolet;
+    font-style:oblique;
+    font-size:x-large;
+
+}
+
+.titulo2{
+
+    color: aqua;
+    font-style: italic;
+    font-size: x-large;
+}
+
+.titulo3{
+
+
+    color: aqua;
+    font-style: italic;
+    font-size: x-large;
+
+}
+
+.parrafo1{
+
+    color: blueviolet;
+    font-style:oblique;
+    font-size:x-large;
+
+}
+
+.parrafo4{
+
+    color: rgb(16, 239, 60);
+    font-style:inherit;
+    font-size:medium; 
+}
+
+img{
+
+width: 330px;
+
+}
+
